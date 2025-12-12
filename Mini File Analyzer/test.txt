@@ -1,0 +1,9 @@
+Any text file: .txt, .cpp, .py, .html, etc.
+
+Counts:
+
+lines
+
+words (human-style counting)
+
+characters (excluding newline \n)
